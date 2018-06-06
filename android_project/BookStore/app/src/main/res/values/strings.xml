@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="new_book">New</string>
+    <string name="title_activity_new_book">New Book</string>
+    <string name="create_book">Create Book</string>
+</resources>
